@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Tokyo Night
+Comment=Tokyo Night Global Theme
+Encoding=UTF+8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=JayyDev
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=none25711@gmail.com
+X-KDE-PluginInfo-License=GPL_V3
+X-KDE-PluginInfo-Name=com.github.Jayy-Dev.Plasma.Tokyo.Night
+X-KDE-PluginInfo-Version=1.0.0
+X-KDE-PluginInfo-Website=https://github.com/Jayy-Dev/Plasma-Tokyo-Night
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/p/2053460,kns://plasma-themes.knsrc/api.kde-look.org/p/2053458,kns://aurorae.knsrc/api.kde-look.org/2053454,kns://icons.knsrc/api.kde-look.org/2053446,kns://wallpaper.knsrc/api.kde-look.org/p/2053461,kns://xcursor.knsrc/api.kde-look.org/1383064
+X-Plasma-MainScript=defaults
