@@ -1,0 +1,26 @@
+[AdaptiveTransparency]
+enabled=true
+
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=0.4
+saturation=1.7
+
+[Desktop Entry]
+X-KDE-PluginInfo-Version=1
+
+[DesktopEntry]
+Comment=Fan Favorite Tokyo Night Theme for Plasma Desktop
+Name=Tokyo-Night
+X-KDE-PluginInfo-Author=JayyDev
+X-KDE-PluginInfo-Email=none25711@gmail.com
+X-KDE-PluginInfo-License=GPL_V3
+X-KDE-PluginInfo-Name=Tokyo Night
+X-KDE-PluginInfo-Version=1
+X-KDE-PluginInfo-Website=https://github.com/Jayy-Dev/Plasma-Tokyo-Night
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultFileSuffix=.jpg
+defaultWallpaperTheme=Tokyo-Night
