@@ -8,7 +8,7 @@ In this Plasma 6 branch you'll find:
 - Plasma Desktop
 - Plasma Look-and-Feel Settings
 
-![preview](https://github.com/Jayy-Dev/Plasma-Tokyo-Night/blob/main/preview/2023-06-20_08-08.png?raw=true)
+![preview](https://github.com/Jayy-Dev/Plasma-Tokyo-Night/blob/plasma-6/preview/2023-06-20_08-08.png?raw=true)
 
 # Changelogs: [1.0.6]
 - placeholder
