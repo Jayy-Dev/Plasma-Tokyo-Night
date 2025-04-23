@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "none25711@gmail.com",
+                "Name": "Jayy-Dev"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [],
+        "Description": "Tokyo Night Theme for Plasma",
+        "EnabledByDefault": true,
+        "Id": "Tokyo-Night",
+        "License": "GPL v3",
+        "Name": "Tokyo Night",
+        "Version": "1.0.6",
+        "Website": "https://github.com/Jayy-Dev/Plasma-Tokyo-Night"
+    }
+}
