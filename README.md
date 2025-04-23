@@ -1,6 +1,5 @@
 # Plasma-Tokyo-Night
 Global Theme for Plasma Desktop based on the Tokyo Night color scheme.
-# Sources for Plasma 6 is not uploaded yet due to issues
 
 In this Plasma 6 branch you'll find:
 - Aurorae Themes
