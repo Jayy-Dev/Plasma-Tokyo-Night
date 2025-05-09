@@ -15,7 +15,7 @@ LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Tokyo-Night
+theme=__aurorae__svg__TokyoNight
 
 [plasmarc][Theme]
 name=Tokyo-Night
