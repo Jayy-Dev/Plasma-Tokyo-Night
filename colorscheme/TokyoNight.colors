@@ -131,7 +131,7 @@ ForegroundPositive=179,225,163
 ForegroundVisited=173,142,230
 
 [General]
-ColorScheme=BreezeDark
+ColorScheme=TokyoNight
 Name=Tokyo Night
 shadeSortColumn=true
 
